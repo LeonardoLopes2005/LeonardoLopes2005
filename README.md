@@ -12,18 +12,23 @@ Desenvolvedor Front-End, estou ansioso para fazer parte de um time onde eu possa
 💻 Habilidades Técnicas:
 Possuo sólido conhecimento em HTML | CSS | JavaScript | React | TypeScript + React. Estou comprometido em seguir as melhores práticas de design responsivo e acessibilidade para criar experiências de usuário intuitivas e eficientes tanto para empresa como pro cliente. Curso e certificado de conclusão de tais habilidades 
 
-
 🤝 O Que Procuro:
 Estou ansioso para integrar uma equipe dinâmica e colaborativa, onde posso extrair bastante aprendizado e contribuir para o desenvolvimento de interfaces atraentes e funcionais. Estou aberto a aprender novas tecnologias e metodologias, sempre buscando aprimorar minhas habilidades e enfrentar novos desafios.
 
 📨 Contato:
 Estou aberto a discussões sobre oportunidades de estágio ou Front-End Jr e para conectar com profissionais do setor. Vamos conversar sobre como posso agregar valor à sua equipe!
-
+<br/>
+<br/>
 Nome: Leonardo Lopes 
+<br/>
 Ensino medio completo - Cursando Analise e Desenvolvimento de Sistema na intituição Estacio 
+<br/>
 Email para contato: leonardolopesdevs@gmail.com
+<br/>
 Numero para contato: +55 21 99473-1772
-Site Github: https://https://github.com/LeonardoLopes2005</P>
+<br/>
+Site Github: https://https://github.com/LeonardoLopes2005
+<br/></P>
 
 ### Tecnologias que eu utilizo e estou em aprendizado
 

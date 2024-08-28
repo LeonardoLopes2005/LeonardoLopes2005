@@ -5,7 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/llopez.co/)
 
 ![Snake animation](https://github.com/LeonardoLopes2005/github-readme-stats/blob/master/github-contribution-grid-snake.svg)
-![Leonardo Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoLopes2005&show_icons=true&theme=dracula)
 
 <h5>🌐 Sobre Mim:
 <P>Sou estudante e entusiasta por tecnologia, sou desenvolvedor back-end em Java com um interesse crescente em criar soluções robustas e eficientes. Estou sempre em busca de aprender e aprimorar minhas habilidades para enfrentar desafios complexos e contribuir para projetos significativos.</P>

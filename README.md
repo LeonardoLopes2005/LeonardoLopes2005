@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/llopez.co/)
 <a href = "leonardolopesdevs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
 
-![Snake animation](https://github.com/LeonardoLopes2005/github-readme-stats/blob/master/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/LeonardoLopes2005/github-readme-stats/blob/master/github-contribution-grid-snake.svg)
 
 <h5>🌐 Sobre Mim:
 <P>Sou estudante e entusiasta por tecnologia, sou desenvolvedor back-end em Java. estou estudando esta tecnologia a 6 meses, com um interesse crescente em criar soluções robustas e eficientes. Estou sempre em busca de aprender e aprimorar minhas habilidades para enfrentar desafios complexos e contribuir para projetos significativos.</P>

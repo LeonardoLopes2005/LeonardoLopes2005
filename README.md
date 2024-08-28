@@ -11,10 +11,13 @@ Sou um estudante apaixonado por desenvolvimento e um desenvolvedor back-end em J
 
 🔧 Tecnologias e Ferramentas:
 
-</b*> Linguagens: Java, SQL
-</b*> Frameworks: Spring Boot, Hibernate
-</b*> Banco de Dados: MySQL, PostgreSQL
-</b*> Versionamento: Git, GitHub
+<b>*</b> Linguagens: Java, SQL 
+<br/>
+<b>*</b> Frameworks: Spring Boot, Hibernate
+<br/>
+<b>*</b> Banco de Dados: MySQL, PostgreSQL
+<br/>
+<b>*</b> Versionamento: Git, GitHub
 
 🌟 O que eu faço: Atualmente, estou focado em aprimorar minhas habilidades em Java, trabalhando em projetos pessoais e acadêmicos que envolvem desenvolvimento de APIs, integração de sistemas e otimização de desempenho. Estou interessado em explorar novas tecnologias e melhores práticas para construir soluções escaláveis e eficientes.
 

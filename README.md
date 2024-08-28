@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardolopesdev)
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/llopez.co/)
 
-
+![Snake animation](https://github.com/LeonardoLopes2005/github-readme-stats/blob/master/github-contribution-grid-snake.svg)
 ![Leonardo Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoLopes2005&show_icons=true&theme=dracula)
 
 <h5>🌐 Sobre Mim:

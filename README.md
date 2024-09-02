@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardolopesdev)
-[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/llopez.co/)
+[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/llopez.co/)
 <a href = "leonardolopesdevs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
 
 [![Snake animation](https://github.com/LeonardoLopes2005/github-readme-stats/blob/master/github-contribution-grid-snake.svg)

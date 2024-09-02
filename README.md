@@ -13,9 +13,9 @@
 🔧 Tecnologias e Ferramentas:
 
 <ul>
-  <li>Linguagens: Java, SQL</li>
-  <li>Frameworks: Spring Boot, Hibernate</li>
-  <li>Banco de Dados: MySQL, PostgreSQL</li>
+  <li>Linguagens: JavaScript, TypeScript</li>
+  <li>Frameworks: React</li>
+  <li>Banco de Dados: MySQL</li>
   <li>Versionamento: Git, GitHub</li>
 </ul>
 

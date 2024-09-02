@@ -27,7 +27,7 @@
 Cursando Sistema da Informação - Universidade UniLaSalle -RJ<br/>
 Email para contato: leonardolopesdevs@gmail.com<br/>
 Numero para contato: +55 21 99473-1772<br/>
-Linkedin: www.linkedin.com/in/leonardolopesdev/>
+Linkedin: www.linkedin.com/in/leonardolopesdev<br/>
 <h5/>
 <h4>### Tecnologias que eu utilizo e estou em aprendizado
 

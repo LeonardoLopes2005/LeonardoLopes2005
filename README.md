@@ -8,7 +8,7 @@
 [![Snake animation](https://github.com/LeonardoLopes2005/github-readme-stats/blob/master/github-contribution-grid-snake.svg)
 
 <h5>🌐 Sobre Mim:
-<P>Sou estudante e entusiasta por tecnologia, sou desenvolvedor back-end em Java. estou estudando esta tecnologia a 6 meses, com um interesse crescente em criar soluções robustas e eficientes. Estou sempre em busca de aprender e aprimorar minhas habilidades para enfrentar desafios complexos e contribuir para projetos significativos.</P>
+<P>Sou estudante e entusiasta por tecnologia, sou desenvolvedor Front-End em React. estou estudando esta tecnologia a 6 meses, com um interesse crescente em criar soluções robustas e eficientes. Estou sempre em busca de aprender e aprimorar minhas habilidades para enfrentar desafios complexos e contribuir para projetos significativos.</P>
 
 🔧 Tecnologias e Ferramentas:
 
@@ -20,14 +20,14 @@
 </ul>
 
 <h5>🌟 O que eu faço: 
-    <p>Atualmente, estou focado em aprimorar minhas habilidades em Java, trabalhando em projetos pessoais e acadêmicos que envolvem desenvolvimento de APIs, integração de sistemas e otimização de desempenho. Estou interessado em explorar novas tecnologias e melhores práticas para construir soluções escaláveis e eficientes.</p>
+    <p>Atualmente, estou focado em aprimorar minhas habilidades em React, trabalhando em projetos pessoais e acadêmicos que envolvem desenvolvimento, interações de sistemas e otimização de desempenho. Estou interessado em explorar novas tecnologias e melhores práticas para construir soluções eficientes.</p>
 <h5>📨 Contato:
 <p>Estou aberto a discussões sobre oportunidades de estágio para me conectar com profissionais do setor. Vamos conversar sobre como posso agregar valor à sua equipe!</p>
 <h5>Nome: Leonardo Lopes <br/>
 Cursando Sistema da Informação - Universidade UniLaSalle -RJ<br/>
 Email para contato: leonardolopesdevs@gmail.com<br/>
 Numero para contato: +55 21 99473-1772<br/>
-Site Github: https://https://github.com/LeonardoLopes2005<br/>
+Linkedin: www.linkedin.com/in/leonardolopesdev/>
 <h5/>
 <h4>### Tecnologias que eu utilizo e estou em aprendizado
 

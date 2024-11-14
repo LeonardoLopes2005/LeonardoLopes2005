@@ -36,6 +36,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/LeonardoLopes2005/LeonardoLopes2005/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -44,8 +46,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
-  <a href="www.linkedin.com/in/leonardolopesdev/" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardolopesdev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>

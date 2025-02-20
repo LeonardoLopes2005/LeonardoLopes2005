@@ -27,9 +27,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoLopes2005&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoLopes2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoLopes2005&radius=16&theme=one-dark&area=true&order=5&hide_title=false&hide_border=true" height="295" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoLopes2005&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoLopes2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoLopes2005&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="295" alt="activity-graph graph"  />
 </div>
 
 ###
